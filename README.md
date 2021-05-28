@@ -1,5 +1,5 @@
 # Multilayer Perceptron from scratch
-Repository made to save Neural Network(MLP) that was create from scratch (without Machine Learning libraries) to study the internal behaviour of a NN.
+Repository made to study Neural Network(MLP) that was create from scratch (without Machine Learning libraries) to study the internal behaviour of a NN.
 The Code plots images to show the evolution of the weights in the process to identify some particular condition.
 
 Error: 
